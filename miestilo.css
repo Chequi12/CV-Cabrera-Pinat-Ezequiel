@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+i.fas.fa-envelope {
+    font-size: 60px;
+    color: #00ff37;
+  }
+@import url(https://fontawesome.com/icons/flag?s=solid);
+#scrollable-container {
+    height: 500px;
+    overflow-y: scroll;
+  }
+  .container {
+    column-count: 2;
+    column-gap: 20px;
+  }
+  .container {
+    width: 1000px;
+    border: 1px solid black;
+    padding: 20px;
+  }
+  header {
+    text-align: left;
+  }
+  
+  h1 {
+    float: left;
+  }
+  header nav {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+  }
